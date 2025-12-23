@@ -1,2 +1,1 @@
-https://kie.ac<br/>
-all my work is listed under the public domain panic license
+[kie.ac](https://kie.ac) / [@uhKie_ran](https://twitter.com/uhKie_ran)
